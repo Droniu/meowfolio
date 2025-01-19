@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Build output
+build/
+
+# Environment files
+.env
+
+# Debug logs
+npm-debug.log*
+pnpm-debug.log*
+
+# Coverage reports
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db

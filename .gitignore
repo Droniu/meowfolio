@@ -1,0 +1,23 @@
+# General Node.js
+node_modules/
+dist/
+.env
+npm-debug.log*
+pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+*.gz
+*.out
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# AWS credentials (if applicable)
+.aws/
